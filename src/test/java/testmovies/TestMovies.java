@@ -1,8 +1,6 @@
 package testmovies;
 
-/**
- * Created by dibyanshu on 3/1/2015.
- */
+
 import movies.Movies;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;

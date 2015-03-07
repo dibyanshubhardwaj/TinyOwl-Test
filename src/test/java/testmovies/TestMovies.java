@@ -21,15 +21,11 @@ public class TestMovies {
     Movies movieName;
 
 
-
     @Test
     public List<WebElement> setup(){
     //find the element
 
             return driver.findElements(By.xpath("//table//tbody[@class='lister-list']//tr"));
-
-
-
 
     }
       @BeforeMethod
